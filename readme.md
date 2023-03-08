@@ -1,6 +1,3 @@
-## Author
-Chris K.
-
 ## To-Do List
 This program allows users to create a to-do list, add, remove, and view items on the list.
 
@@ -22,3 +19,6 @@ The code initializes an empty to-do list, then prompts the user for an action us
 * `view_list()` displays the current list, with each item numbered.
 
 The program uses a switch case structure to select the appropriate function based on the user's input. After each action, the program prompts the user to continue or exit. If the user enters 'y', the program continues; otherwise, it exits the loop and prints "Goodbye."
+
+## Author
+Chris K.
