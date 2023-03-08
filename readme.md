@@ -1,3 +1,6 @@
+## Author
+Chris K.
+
 ## To-Do List
 This program allows users to create a to-do list, add, remove, and view items on the list.
 
